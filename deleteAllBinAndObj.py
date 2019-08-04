@@ -1,4 +1,3 @@
-
 # 1/8/19
 # Written by Guy Kaplan
 # This Python script deletes all bin and obj folders from a given folder.
