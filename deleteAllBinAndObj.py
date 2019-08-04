@@ -24,9 +24,3 @@ for root, dirs, files in os.walk(rootFolder):
 			shutil.rmtree(os.path.join(root, name), ignore_errors=True)
 			numOfRemovedFolders += 1
 print("Removed {} folders".format(numOfRemovedFolders))
-
-
-
-
-
-
